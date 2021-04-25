@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/rrrohitsharma/contoso-github/_apis/build/status/rudar23.ContosoAir?branchName=master)](https://dev.azure.com/rrrohitsharma/contoso-github/_build/latest?definitionId=23&branchName=master)
 
 # Microsoft.Github CI Demo
 
